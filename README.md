@@ -1,2 +1,2 @@
 # CPlusPlusRepo
-The repository of C++ files used when studying C++ with the book "C++ Language Tutorial" by Juan Soulie.
+The repository of C++ files created when studying C++ with the book "C++ Language Tutorial" by Juan Soulie.
