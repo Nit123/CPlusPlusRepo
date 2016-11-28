@@ -6,3 +6,5 @@ Note: .out files will only work on Linux and will require the original C++ file.
 Note 2: Formatting disreprencies will be fixed after all files are completed
 
 Note 3: My Raspberry Pi is having multiple Kernal Panics so in the meantime, there will be no Output Files
+
+Note 4: Starting from Files on 11/27/16, output files will be available (got Ubuntu)
